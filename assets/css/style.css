@@ -1,0 +1,22 @@
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    background: #CDB2AB; 
+}
+
+header {
+    background: #A14A76;
+}
+
+h1 {
+}
+
+#main-bio {
+    float: left;
+    background: #FFA8A9;
+}
+
+#bio-image {
+    width: 25%;
+    height: 25%;
+}
