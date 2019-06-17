@@ -1,0 +1,39 @@
+body {
+    background-image: url("../images/bg-pic.png")
+}
+
+header {
+    background: #fff;
+
+}
+
+header h1 {
+    background: #4aaaa5;
+    color: #fff;
+}
+
+.nav-bar {
+
+}
+
+ul.nav-links a {
+    color: #777;
+}
+
+.container {
+    background: #fff;
+}
+
+.container h2 {
+    color: #4aaaa5;
+}
+
+.container p {
+    color: #777;
+}
+
+
+footer {
+    background: #666;
+    color: #777;
+}
