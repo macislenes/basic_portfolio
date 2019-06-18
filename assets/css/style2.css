@@ -97,6 +97,8 @@ ul.nav-links li a {
 
 #bio-image {
     width: 250px;
+    float: left;
+    margin: 10px;
 }
 
 
